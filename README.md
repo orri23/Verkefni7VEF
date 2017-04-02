@@ -2,11 +2,11 @@
 
 ## Síða með formi sem skráir notendur og sendir upplýsingarnar í gagnagrunn. 
 
-sign-up.php
-= skjal með forminu, þar sem notandi skráir sig.
+### sign-up.php
+### = skjal með forminu, þar sem notandi skráir sig.
 
-sign-up2.php
-= connection-ið við gagnagrunninn og formið að senda upplýsingarnar sem voru sláðar inn, inn í gagnagrunninn.
+### sign-up2.php
+### = connection-ið við gagnagrunninn og formið að senda upplýsingarnar sem voru sláðar inn, inn í gagnagrunninn.
 
 
 Stillingar: Slærð heiltölu (aðra tölu en 1,2 og 5) inn í id kassann, slærð nafn í nafn kassann, 
