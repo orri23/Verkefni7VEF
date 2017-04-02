@@ -1,4 +1,5 @@
 # Verkefni7VEF
+# (Fatta ekki alveg hvernig ég á að setja gagnagrunn hér inn á github?)
 
 ## Síða með formi sem skráir notendur og sendir upplýsingarnar í gagnagrunn. 
 
