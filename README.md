@@ -9,7 +9,7 @@
 = connection-ið við gagnagrunninn og formið að senda upplýsingarnar sem voru sláðar inn, inn í gagnagrunninn.
 
 
-### Stillingar: Slærð heiltölu (aðra tölu en 1,2 og 5) inn í id kassann, slærð nafn í nafn kassann, 
+### Stillingar: Slærð heiltölu (aðra tölu en 1, 2 og 5) inn í id kassann, slærð nafn í nafn kassann, 
 slærð netfang í netfang kassann, slærð lykilorð í lykilorð kassann og ýtir síðan á Submit.
 Submit síðan beinir þér á nýja síðu sem segir: Nýr notandi hefur verið búinn til
 og þar með eru upplýsingarnar komnar inn í gagnagrunn. 
